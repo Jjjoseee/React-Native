@@ -70,6 +70,7 @@ const styles = StyleSheet.create({
   },
   sansSerif: {
     fontFamily:'sans-serif',
+    fontWeight:'bold',
     fontSize: 25,
   },
   sansSerifLight: {
